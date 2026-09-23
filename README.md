@@ -94,8 +94,8 @@ K-Means
 
 ## 📌 About This Repository
 
-This repository serves as a collection of my practical Machine Learning exercises and learning projects.
+This repository brings together my practical Machine Learning projects and exercises in one place.
 
-The original projects are maintained in their individual repositories, while this repository provides a central place to explore all of them.
+Each project is maintained in its own GitHub repository, and the links above provide access to the individual projects.
 
-I continue to expand this collection as I learn and implement new Machine Learning concepts and algorithms.
+I follow a structured [Roadmap](https://github.com/HannanehCharmgar/Roadmap) to guide my learning and implementation of Machine Learning concepts and algorithms, and I will continue to expand this collection as I progress.
